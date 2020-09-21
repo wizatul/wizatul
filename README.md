@@ -1,6 +1,5 @@
-### Hi there 👋
-### Hi there 👋, my name is Alex
-#### System Engineer DevOps
+### Hi there 👋, my name is Atul
+#### Software Engineer 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning ES7 
