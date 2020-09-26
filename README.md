@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Atul
+### Hi there 👋, my name is Atul Dey
 #### Software Engineer 
 
 - 🔭 I’m currently working on this page. 
